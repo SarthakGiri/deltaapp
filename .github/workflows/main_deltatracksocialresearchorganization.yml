@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'DeltaTrackSocialResearchOrganization'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68C3D75EF853403E9005195045DB445D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0585C80EE32E4EC7961841162E92FCE5 }}
           package: .
